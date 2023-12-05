@@ -1,0 +1,243 @@
+Question: 1
+In a newly formed team, the members are new and Harry, the Scrum Master, is finding it hard to ensure that everyone trusts each other. Which Scrum Value is impacted by trust? (Choose the best answer) : 
+   Openness &amp; Focus
+   Commitment
+   Respect
+   Courage
+   All answers above apply.
+   None of the answers apply
+
+
+Question: 2
+At the beginning of a Sprint, the Developers don't have the tools and infrastructure needed to complete the current Sprint Backlog Items. What two things are the LEAST appropriate for the Scrum Master to do? : 
+   Improve communication between the Product Owner and Developers in order to establish a plausible Sprint Goal and a proper Definition of Done.
+   Talk with the Product Owner in order to accept partially done Increments.
+   Help the Developers get tools and improve infrastructure while Definition of Done is adapted accordingly.
+   The Increment for the current Sprint will focus on delivering infrastructure and tool acquisition.
+
+
+Question: 3
+What would be the best two ways to identify that a Scrum team is self-managed? (Choose the best two answers) : 
+   Creativity thrives and new possibilities are explored.
+   The Developers are able to resolve internal conflicts between members in order to continue working.
+   The developers are cross-functional and understand what has to be done to complete the tasks assigned to them in the Sprint Planning.
+   Management can see who is working on which tasks.
+
+
+Question: 4
+A Scrum Master is a true leader who serves the Scrum team and the organization. Which three activities describe what a Scrum Master manages as reflected by the Scrum Guide? (Choose the best three answers) : 
+   Managing the Product Backlog items and working in the Sprint Backlog.
+   Causing the removal of impediments to the Scrum teamâ€™s progress that limits their progress and productivity.
+   Managing the capacity and utilization of each Developer.
+   The way Scrum is understood and enacted within the organization.
+   Managing the process in which Scrum is applied.
+   Reporting on the performance of the Sprint.
+
+
+Question: 5
+Paul, a Product Owner from one of the Scrum teams, has been attending the Daily Scrum. During the Daily Scrum, the Developers have been reporting their daily work to Paul so that he is aware of their Sprint progress and what each member is working on. What is the best action for the Scrum Master to take? (Choose the best answer) : 
+   Facilitate the Daily Scrums to avoid any conflicts between the Developers and Paul.
+   Coach Paul and the Developers on the purpose of the Scrum events and let them figure out what to do in this situation.
+   Ask Paul to stop attending the Daily Scrum.
+   Allow Paul to participate in the Daily Scrum as he is responsible for the product's success.
+
+
+Question: 6
+A Scrum team has been formed and the Technical leader has left on holiday while being in the middle of a Sprint. During his absence, who is responsible for managing the tasks of the Sprint? (Choose the best answer) : 
+   The Project Manager.
+   All answers above apply.
+   The Scrum Master.
+   The Product Owner.
+   None of the answers apply.
+   The Developers.
+
+
+Question: 7
+Steven is a Scrum Master of a Scrum team that is new to Scrum. Halfway through the Sprint, the Product Owner mentions to Steven that he is concerned the Developers will not be able to complete the entire Sprint Backlog by the end of the Sprint. What should Steven do in this situation? (Choose the best answer) : 
+   Advise the Product Owner that the Developers own the Sprint Backlog and it is up to them to meet their commitments. No one tells the Developers how to turn the Product Backlog into Increments of potentially releasable functionality.
+   Motivate the Developers to meet their commitment to the Product Owner.
+   Coach the Product Owner that with complex software development, you cannot promise the entire scope that was forecast during Sprint Planning. As more is learned during the Sprint, work may emerge that affects the Sprint Backlog.
+   Add more Developers to the Scrum team to meet the Product Ownerâ€™s expectations.
+
+
+Question: 8
+Steve is a Scrum Master asked to assist in creating five new Scrum teams that will be working to build a highly anticipated product. He talks with them about the importance of being able to integrate their Increments by the end of their Sprints. This includes the first Sprints. The product is very important to both the end-users and the organization. Of the choices raised by future team members, what would Steven encourage? (Choose the best answer) : 
+   Wait until enough of the infrastructure and architecture is in place before starting the first Sprints. This will increase the success of delivering integrated Increments in Sprint 1.
+   Each Scrum team delivers functionality at the end of each Sprint. New Product Backlog items will then be added to the next Sprint Backlog to integrate their functionality with the other teams to create a unified Increment.
+   Each Scrum team delivers Increments in its own code branch. After UAT is performed at the Sprint Review, the code branch is isolated until enough Increments are considered acceptable. All code branches will then be merged during the release phase.
+   All Scrum teams agree on a mutual understanding of â€˜doneâ€™ that defines all work necessary to deliver a potentially shippable Increment that includes all previous Increments delivered for the product.
+
+
+Question: 9
+An organization has hired Steven to be the Scrum Master of three new teams that will work on the initial release of a new product using Scrum. Steven advises the group on how to get started with Scrum. What are the first two things Steven should recommend?  (Choose the best two answers) : 
+   Having one Product Owner be accountable for maximizing value flow throughout the development process and providing transparency on the overall progress.
+   Each Scrum team has its Product Backlog with items only their team will be working on.
+   Three Product Owners, one for each Scrum team.
+   One Product Backlog to represent all of the known work needed to be done for the product.
+
+
+Question: 10
+A new Scrum team has just been formed and the Product Owner is not certain whether he should extend the Sprint or not. There are no functional items been delivered and the rest of them are not properly tested. What could be a reason for a Product Owner to delay the start of a new Sprint after the conclusion of the previous Sprint? (Choose the best answer) : 
+   The Product Owner needs additional time to identify the next initiatives.
+   There is no acceptable reason. A new Sprint starts immediately after the conclusion of the previous Sprint.
+   Thereâ€™s not enough work in the Product Backlog to work on in the upcoming Sprint.
+   The stakeholders were disappointed with the Increment produced in the previous Sprint.
+   The QA team has not finished testing the previous Increment before declaring it ready to ship.
+
+
+Question: 11
+Stakeholders are only allowed to meet with the Scrum team at the Sprint Review. : 
+   False
+   True
+
+
+Question: 12
+Three Scrum teams are trying to determine the most appropriate length for their Sprint. Which factors are best considered when defining the Sprint length? (Choose the best answer) : 
+   How often the team size changes.
+   The level of expertise over the technology to be used, the ability to release an Increment to the end-users, and the risk of being disconnected from the stakeholders.
+   Having a consistent Sprint length across all Scrum teams.
+
+
+Question: 13
+Three Scrum teams are currently building a single product and pulling work from the same Product Backlog. All three teams have identified that they will need Kareem, a database specialist, to work full time in their team for the next several Sprints. What should Steven, the Scrum Master, do to solve this potential problem? (Choose the best answer) : 
+   Manage the items in the Sprint Backlogs so that Kareem can be utilized evenly for each team.
+   Assign Kareem to the team with the most urgent tasks first and then move him to the next team and so on until the required support is completed.
+   Ask Kareem to work with the HR department to recruit and hire additional database specialists. In the meantime, have the Product Owner move items that do not depend on Kareem to the top of the Product Backlog.
+   Coach the Scrum teams to self-manage this issue and help them implement their preferred solution.
+
+
+Question: 14
+Which of the following can impact the outcome of the Sprint? (Choose all that may apply) : 
+   Number of QA engineers in the team.
+   The complexity and stability of the technology.
+   The working relationships and skills of the people in the Scrum team.
+   Availability of the Architect.
+
+
+Question: 15
+Project Managers are working close to the customers, so they know well what they need, so a Product Owner is essentially the same thing as a traditional Project Manager. : 
+   True
+   False
+
+
+Question: 16
+Each product that we build using Scrum should have a Product Goal to make sure that the teams are focused. What is true about the Product Goal? (Choose all that apply) : 
+   The Product Owner is accountable for developing and explicitly communicating the Product Goal.
+   The Scrum Master serves the Product Owner by finding techniques for effective Product Goal definition
+   The Developers should focus on their Sprint Backlog and not the Product Goal.
+   The Scrum team has the right to determine the Product Goal.
+
+
+Question: 17
+A Scrum team has been working on the same product for twelve Sprints. What would likely be the immediate impact on the original Scrum team if two new Scrum teams are to be added to the same product? (Choose the best answer) : 
+   Its productivity is likely to decrease.
+   Its productivity is likely to increase.
+   Its productivity is likely to stay the same.
+
+
+Question: 18
+An organization has just hired you as a new Scrum Master to help them transform their teams from their current traditional process to Scrum. The teams are currently structured to specialize in a single function, which is also known as component teams where a team would only address a single layer (i.e. front-end, back-end, testing, etc.). You've introduced the concept of cross-functional teams where all the skills needed to produce business functionality, from end to end, are inside of a single team. What should you keep in mind when transitioning from siloed teams to cross-functional teams? (Choose the best two answers) : 
+   It is easier to compare the performance between cross-functional teams in order to decide which teams to assign tasks to and which teams need additional coaching.
+   Without featured teams, you cannot do a Scrum. Postpone Scrum adoption until the teams are reorganized in featured teams.
+   Newly formed teams will need time to stabilize before reaching their peak performance. During the initial stages of forming, performance will suffer and productivity may be low. However, there are still chances that the delivery of business value will increase. 
+   People from different layers and components will need time to become accustomed to working and delivering unified functionality together as one Scrum team thus productivity may suffer.
+
+
+Question: 19
+A Product Owner has been working for many years for 6 Scrum teams. What would the Product Owner do during an active Sprint? (Choose the best answer) : 
+   Prioritize the Sprint Backlog.
+   Engage with the stakeholders and answer questions from the Developers.
+   Update the burndown chart.
+   Participate in the Daily Scrum.
+
+
+Question: 20
+The Product Ownerâ€™s primary concern is the flow of value reflected in the ordering of the Product Backlog. : 
+   False
+   True
+
+
+Question: 21
+A Scrum Master teaches those who are interested in the Developers' progress that progress in Scrum comes from inspecting an Increment at the Sprint Review. : 
+   True
+   False
+
+
+Question: 22
+According to Scrum Theory, how should a group of fifty Developers be divided into multiple teams? (Choose the best answer) : 
+   The teams will rotate their members every Sprint for the spread of knowledge.
+   By understanding the product, the product vision and the Scrum framework, the group divides itself into teams.
+   Create a skills matrix for identifying their levels and years of experience to assign people into teams.
+   Allow the team leads to divide and select teams.
+
+
+Question: 23
+A Scrum Master has been training/coaching the Product Owner to find ways to maximize the value delivered. Which stakeholders are the most important for the Product Owner to satisfy? (Choose the best answer) : 
+   The Head of Product
+   The board of directors
+   The company founder
+   The Productâ€™s users
+
+
+Question: 24
+During the Product Backlog refinement, the Technical leader is not present, and the team is not sure how to implement the new module. Who is responsible for the work during the Sprint? (Choose the best answer) : 
+   The Developers.
+   The engineering director.
+   The Team Leads.
+   The Scrum Master.
+   The Technical Architects.
+
+
+Question: 25
+What would be the main benefits of self-management? (Choose the best answer) : 
+   Increased rule compliance, self-accountability, output.
+   Increased creativity, self-accountability, commitment.
+   Increased capacity, accuracy of estimates, output.
+   Increased rule compliance, self-accountability, commitment.
+
+
+Question: 26
+A Scrum team has&nbsp;six members in total: four who work full-time in the office and two who work part-time at home. The team is arguing that synchronizing each day is too difficult and has suggested that the Daily Scrum should&nbsp;be held every other day instead. What three main issues would arise if the Daily Scrum was held less frequently? (Choose the best three answers) : 
+   Impediments would be raised and resolved slower.
+   Less information regarding progress would be shared as this would cause the Sprint plan to become inaccurate and reduce transparency over progress toward the Sprint Goal.
+   The Product Owner would not accurately inspect the utilization of the individual team members.
+   The Scrum Master would lose the ability to update the burndown chart adequately.
+   Opportunities to inspect and adapt the Sprint Backlog would be reduced.
+
+
+Question: 27
+A company has recently moved to new facilities as they have hired 38 more Developers. Where should the Daily Scrum be held? (Choose the best answer) : 
+   Wherever the Developers decide is most suitable.
+   In a room where the management can attend.
+   In front of the Scrum board.
+   In the same location where the Developers are seated.
+   Wherever the Scrum Master decides is best.
+
+
+Question: 28
+Scrum is used in a way to ensure transparency. Team members work together while participating in various events to improve communications. Which of the following may improve communications in Scrum? (Choose all that apply) : 
+   Sprint Retrospective
+   Integration Sprints
+   Daily Scrum
+   Sprint Review
+   Release Planning
+
+
+Question: 29
+Steven, the Scrum Master, is approached by one of the Developers who mentioned that they are not completing regression tests for all of the work they are performing to the level defined in the Definition of Done. They discussed this with the Product Owner and decided to remove regression testing from the Definition of Done. Which two actions are the most appropriate for Steven to take? (Choose the best two answers) : 
+   Ask the Developers and the Product Owner if they are still able to produce potentially shippable product Increments by altering the Definition of Done.
+   Accept the decision for the reason that a mutual agreement has been made between the Developers and the Product Owner.
+   Reject the decision. The long-term maintainability of the product will be negatively impacted by modifying the Definition of Done.
+   Ask the Developers and the Product Owner what problem they are trying to solve by altering the Definition of Done and removing the regression testing from it. Ask coaching questions like "in what ways will this decision impact transparency and quality?"
+
+
+Question: 30
+At the end of the eighth Sprint, the internal sponsors are not happy with the progress of the product being built. The current state of the product is not as expected as it will require additional Sprints and more budget than originally anticipated at the start of the project. What factors may have led to this? (Choose the best three answers) : 
+   The sponsors havenâ€™t been using the Sprint Reviews to actively engage, inspect and evaluate the progress.
+   The project plan proposed to the sponsors at the start of the project was followed stringently.
+   The Product Owner has not been engaging with sponsors frequently enough and has not been kept aware of the project's overall progress.
+   The scope changes have not been tracked adequately and the change request process has not been followed properly.
+   The Scrum Master has not ensured transparency.
+   The stakeholders have not been using the Daily Scrum effectively to track the progress of the Developers.
+
+

@@ -1,0 +1,660 @@
+Question: 1
+Who is accountable for creating a valuable, useful Increment every Sprint.(choose the best answer) : 
+   The Developers.
+   The team leaders.
+   The Scrum Master.
+   The Scrum Team.
+   The Product Owner.
+
+
+Question: 2
+In which Scrum event do key stakeholders collaborate with the Scrum Team about the outcome of the Sprint and future adaptations?(choose the best answer) : 
+   The Daily Scrum
+   The Sprint Planning
+   The Sprint Review
+   The Sprint Retrospective
+
+
+Question: 3
+How does the Definition of Done (DoD) help the Scrum Team? (choose the best three answers) : 
+   DoD is used to assess when work is complete.
+   DoD helps to calculate the velocity of the Scrum Team
+   DoD guides the Developers in knowing how many Product Backlog items it can select during Sprint Planning.
+   DoD ensures artifact transparency
+
+
+Question: 4
+Which of the following is false with regards to what happens during the Sprint? (choose the best two answers) : 
+   The Sprint Goal is changed frequently to reflect the status of the remaining work
+   Scope may be clarified and renegotiated with the Product Owner as more is learned
+   Quality goals do not decrease
+   Sprint scope is defined at the Sprint Planning and cannot be changed
+   No changes are made that would endanger the Sprint Goal
+
+
+Question: 5
+The Scrum framework consists of what?(choose all that apply) : 
+   Artifacts
+   Rules
+   Events
+   Accountabilities
+
+
+Question: 6
+Who is accountable for maximizing the value of the product resulting from the work of the Scrum Team?(choose the best answer) : 
+   The Scrum Team
+   The Product Owner
+   The Product Owner and The Developers
+   The Scrum Master and The Developers
+   The Scrum Master
+   The Developers
+
+
+Question: 7
+At some point during the product development cycle, a key stakeholder started using the product and was unhappy with its quality. Thus, he made his concern very clear to the Product Owner. According to the key stakeholder, the productâ€™s performance was below what he expected. Thus, the Product Owner went to talk to you, the Scrum Master, about this issue. What should you tell her?(choose the best two answers) : 
+   Tell the Product Owner that, in Scrum, the technical expertise is expected from the Developers and they are the ones responsible for defining acceptable quality standards, not the stakeholder
+   Tell the Product Owner that she should bring this up only on the Sprint Retrospective
+   Encourage the Product Owner to add Product Backlog items focusing on the given quality concerts and express the stakeholderÂ´s concern to the Developers
+   Coach the Product Owner on how to address the Developers about this issue
+   Tell the Product Owner that she should talk to the testers, because, such an issue should not leak to the users and they must improve their quality control procedures
+
+
+Question: 8
+True or False: Scrum recommends having a â€œhardeningâ€ Sprint to remove all technical debt and prepare the Product for the upcoming release.  : 
+   True
+   False
+
+
+Question: 9
+Select the five Scrum Values.(choose all that apply) : 
+   Agility
+   Commitment
+   Respect
+   Openness
+   Courage
+   Lean
+   Rapid development
+   Focus
+
+
+Question: 10
+Which of the following are valid ways of dealing with regulatory compliance issues in Scrum?(choose the best two answers) : 
+   They are handled by a Compliance team
+   They are dealt with specialized Sprints before developing business functionality
+   They are treated as regular Product Backlog items and addressed in early Sprints. However, independent of the situation, every Sprint must have at least some business functionality, no matter how small.
+   Throughout the product development
+
+
+Question: 11
+What should the Scrum Team do when during the Sprint Retrospective meeting, they identified some improvements that can be done? (choose the best answer) : 
+   Assign responsible team members for every improvement. Check the progress at the next Retrospective.
+   Make sure the Sprint Backlog for the next Sprint includes all the improvements.
+   Assign a responsible team member for at least one improvement. Check the progress at the next Retrospective.
+   The most impactful improvements are addressed as soon as possible. They may even be added to the Sprint Backlog for the next Sprint.
+   They should not talk about improvements because it could harm the company.
+
+
+Question: 12
+What is the Sprint Retrospective?(choose the best answer) : 
+   It is a meeting where the Development Team plans work for the next 24 hours.
+   It is a meeting to inspect the Increment and adapt the Product Backlog if needed.
+   It is the meeting that occurs at the end of the project to identify its lessons learned.
+   It is an opportunity for the Scrum Team to plan ways to increase quality and effectiveness.
+
+
+Question: 13
+What can Scrum be used for?(choose all that apply) : 
+   Develop products and enhancements.
+   Sustain and renew products.
+   Develop and sustain Cloud (online, secure, on-demand) and other operational environments for product use
+   Release products and enhancements, as frequently as many times per day.
+   Research and identify viable markets, technologies, and product capabilities.
+
+
+Question: 14
+Your Scrum Teamâ€™s impediment list is growing. Which techniques would be most helpful in this situation?(choose the best two answers) : 
+   The Scrum Team prioritizes the list and works on them in order
+   The Scrum Master removes the impediments as soon as possible
+   The Product Owner adds the impediments to the Product Backlog
+   The Scrum Master discusses the impediments with the Scrum Team
+
+
+Question: 15
+Who is allowed to update the Product Backlog? (choose the best two answers) : 
+   The Developers, but the Product Owner remains accountable.
+   The Developers.
+   The Product Owner.
+   The Product Discovery team.
+   The Scrum Master.
+   The key stakeholders.
+
+
+Question: 16
+What happens when a Sprint is canceled?(choose the best three answers) : 
+   All incomplete Product Backlog Items are re-estimated and put back on the Product Backlog
+   At the Sprint Retrospective, the Scrum Master determines who from the Developers is responsible for canceling the Sprint
+   Several top Product Backlog Items are taken into the Sprint Backlog to replace the obsolete items
+   Any completed and â€œDoneâ€ Product Backlog items are reviewed
+   If part of the work is potentially releasable, the Product Owner typically accepts it
+
+
+Question: 17
+Select three of the following actions that Scrum Master may take in starting up a Scrum implementation:(choose the best three answers) : 
+   Ask the Developers to discuss and identify the way they are going to develop the product.
+   Ask the Product Owner to explain the product, its business need, history, goals, and context.
+   Ask the development managers to introduce their departments and capabilities
+   Ask the Scrum Team to work together and prepare a complete Product Backlog.
+   Ensure that a bonus system is in place for the top performance of individuals.
+   Ask the Developers to introduce themselves to each other and tell about their skills and background
+
+
+Question: 18
+Select the three most applicable items that Product Backlog management includes:(choose the best three answers) : 
+   Moving Product Backlog items into the Sprint Backlog
+   Ordering Product Backlog items
+   Ensuring that the Product Backlog is transparent, visible, and understood
+   Developing and explicitly communicating the Product Goal
+   Presenting Product Backlog items to the Key Stakeholders
+
+
+Question: 19
+If any aspects of a process deviate outside acceptable limits so that the resulting product will be unacceptable, when must an adjustment be made?(choose the best answer) : 
+   As soon as possible to minimize further deviation
+   Whenever the Scrum Master approves it.
+   During the next Sprint Review.
+   During the next Daily Scrum.
+   Whenever the Product Owner approves it.
+
+
+Question: 20
+Which of the following ways of forming Scrum Teams meet ScrumÂ´s values?(choose the best two answers) : 
+   Existing teams propose the new Scrum Teams
+   Management collaborates to form the teams
+   Bring all the candidate members together and let them organize into Scrum Teams
+   The Scrum Masters form the teams
+
+
+Question: 21
+You are the Scrum Master of a Scrum Team. What are the two primary ways that you can help it to become more productive?(choose the best two answers) : 
+   By facilitating Scrum decisions
+   By updating the issue tracker
+   By causing the removal of impediments to the Scrum Teamâ€™s progress
+   By scheduling rooms for the Scrum Events
+
+
+Question: 22
+True or False: The Sprint Backlog is created at Sprint Planning. It is prohibited to add new work into the Sprint Backlog later by the Developers. : 
+   False
+   True
+
+
+Question: 23
+Which statement is correct about the Sprint Backlog?(choose the best answer) : 
+   It has just enough detail.
+   It has all the details.
+   It has no detail.
+
+
+Question: 24
+Who is accountable for managing the Product Backlog?(choose the best answer) : 
+   The Scrum Master
+   The Key Stakeholders
+   The Developers
+   The Product Owner
+
+
+Question: 25
+What is the fundamental unit of Scrum? (choose the best answer) : 
+   A small team of people. 
+   The Developers.
+   The Learning process.
+   The Scrum Master.
+   The Scrum Guide's rules.
+
+
+Question: 26
+What are the Scrum Artifacts?(choose all that apply) : 
+   Increment
+   The Sprint Goal.
+   Product Backlog.
+   Definition of Done.
+   Sprint Backlog.
+
+
+Question: 27
+True or False: The Definition of Done is created during the first Sprint and remains unchanged until the end of the project. : 
+   True
+   False
+
+
+Question: 28
+Which of the following are commitments of Scrum&nbsp;Artifacts.(choose all that apply) : 
+   Product Goal
+   Definition of Done
+   Product Vision
+   Definition of Ready
+   Sprint Goal
+   Project Goal
+
+
+Question: 29
+Which of the following are applicable characteristics of the Product Owner?(choose the best four answers) : 
+   Facilitator of Scrum events
+   Product Marketplace Expert
+   Lead Facilitator of Key Stakeholder Involvement
+   Product Value Maximizer
+   Product Visionary
+
+
+Question: 30
+What are the characteristics of a Scrum Team? (choose the best three answers) : 
+   Scrum recognizes no sub-teams or hierarchies, within a Scrum Team
+   Cross-functional
+   Everybody must be full-time
+   Accountability belongs to the Scrum Team as a whole
+   Having at least one test engineer as a Developer
+
+
+Question: 31
+During Sprint Planning, the Developers must plan the work for all days of the Sprint. It is decomposed by the end of this meeting, often to units of one day or less. (choose the best answer) : 
+   Yes, all items in the Sprint Backlog should be decomposed to units of one day or less by the end of the Sprint Planning
+   No, this is not a rule and it is up to the Developers to plan the work necessary to create an Increment that meets the Definition of Done. 
+   No, because who estimates the work to be done at Sprint is the Scrum Master
+   Yes, Sprint Backlog is decomposed down into user stories, and the delivery time and effort are estimated considering the Sprint duration
+
+
+Question: 32
+What does the word â€œdevelopmentâ€ mean in the context of Scrum?(choose the best answer) : 
+   Development of an operational environment for the Product
+   Product development, its releasing and sustaining
+   Research and identifying of viable markets, technologies, and Product capabilities
+   Complex work that can include all the suggested options and even more
+   Software and hardware development
+
+
+Question: 33
+What should be the length of a Sprint?(choose the best two answers) : 
+   At least, one week
+   Whatever works best for management
+   At most, one month
+   Short enough to keep the business risks acceptable
+
+
+Question: 34
+True or False: All Scrum Teams working on the same Product must use a single Product Backlog. : 
+   False
+   True
+
+
+Question: 35
+You are a Scrum Master and about to begin working with five new Scrum Teams; all working on the same product. Which of the following should you strive for?(choose the best two answers) : 
+   There should be five Project Backlogs, inheriting from a single Product Backlog
+   There should be only a single Product Owner
+   There should be five Product Owners, reporting to a Chief Product Owner
+   There should be five Product Backlogs, one for each Scrum Team
+   There should be five Product Owners, one for each Scrum Team
+   There should be only a single Product Backlog
+
+
+Question: 36
+True or False: Only people of the Scrum Team can participate in the Sprint Planning. : 
+   True
+   False
+
+
+Question: 37
+True or False: During Sprint Retrospective the definition of Done can not be reviewed and adapted. : 
+   True
+   False
+
+
+Question: 38
+How does the Scrum Master serve the Scrum Team? (choose the best three answers) : 
+   Coaching the team members in self-management and cross-functionality
+   Managing the Developers
+   Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done
+   Causing the removal of impediments to the Scrum Teamâ€™s progress
+
+
+Question: 39
+True or False: The Product Owner and the Scrum Master cannot be a part of Developers : 
+   True
+   False
+
+
+Question: 40
+Select the two most suited items that should be taken into the reckoning for the Definition of Done?(choose the best two answers) : 
+   Definition of Done of other Scrum Teams working on other products
+   The standards of the Organization
+   Definition of Done of other Scrum Teams working on the same Product
+   Experience of the Product Owner
+   Advice of the Scrum Master
+
+
+Question: 41
+Who is accountable for establishing Scrum? (choose the best answer) : 
+   The Scrum Team
+   The Product Owner
+   The Scrum Master
+   The Scrum Master and the Product Owner
+   The Developers
+
+
+Question: 42
+What does the Cone of Uncertainty show?(choose the best answer) : 
+   A visual view of tasks scheduled over time.
+   Defines all the things a project needs to accomplish, organized into multiple levels, and displayed graphically.
+   A graphical representation of the Sprint's work left to do versus time.
+   How much is known about the Product over time.
+
+
+Question: 43
+Which of the following are topics to be discussed during Sprint Retrospective?(choose the best two answers) : 
+   Identify the most helpful changes to improve its effectiveness
+   The teamâ€™s collaboration
+   Refine the Product Backlog
+   The Products Backlog order
+
+
+Question: 44
+Which of the following is Scrum founded upon?(choose the best two answers) : 
+   Rapid Application Development
+   Empiricism
+   Lean Thinking
+   Extreme Management
+   PDCA
+
+
+Question: 45
+How does the Scrum Master serve the Organization? (choose the best answer) : 
+   Inviting key stakeholders are invited to all Scrum Reviews within the organization.
+   Updating the Burndown charts.
+   Forming Scrum Teams.
+   Helping employees and stakeholders understand and enact an empirical approach for complex work.
+
+
+Question: 46
+True or False: The Scrum Master does not help those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which arenâ€™t. : 
+   True
+   False
+
+
+Question: 47
+Which of the following is true about Artifact's commitments?(choose the best answer) : 
+   The Increment commits to the Definition of Ready
+   The Product Backlog commits to the Product Vision
+   They are mandatory.
+   They are optional
+
+
+Question: 48
+Who is responsible for creating the Definition of Done?(choose the best answer) : 
+   The Scrum Team
+   The Scrum Master
+   The Developers
+   The Product Owner
+
+
+Question: 49
+Who attends the Sprint Review? (choose all that apply) : 
+   The Product Owner.
+   The Developers
+   The Scrum Master.
+   Key Stakeholders
+
+
+Question: 50
+What's the timeboxed duration of Sprint Review events?(choose the best answer) : 
+   3 hours in a one-month Sprint
+   3 hours
+   Maximum 3 hours
+   Maximum 4 hours in a one-month Sprint, and usually shorter for shorter Sprints.
+
+
+Question: 51
+During a Sprint, the CEO asks the Developers to add an urgent item to the Sprint Backlog. What should the Developers do?(choose the best answer) : 
+   Add the item to the current Sprint and remove an item from the Sprint Backlog of equal size
+   Add the item to the current Sprint without any adjustments
+   The Scrum Master must not allow the CEO to talk to the Developers
+   Add the item to the Product Backlog
+   Inform the Product Owner so that the matter can be worked with the CEO
+
+
+Question: 52
+Who is allowed to change the actionable plan for delivering the Increment?(choose the best answer) : 
+   The Developers and the Product Owner
+   The Developers
+   The Scrum Team
+   The Scrum Master
+   Upper management
+   The Product Owner
+
+
+Question: 53
+Which of the following are actions that The Scrum Master must do regarding the Daily Scrum?(choose the two best answers) : 
+   The Scrum Master teaches the Developers to keep the Daily Scrum within the 15-minute time-box
+   The Scrum Master must manage all events because he or she is the team lead.
+   The Scrum Master ensures that the Developers has the meeting
+   The Scrum Master is responsible for conducting the Daily Scrum
+
+
+Question: 54
+True or False: The Product Owner is the main person responsible for engaging the stakeholders : 
+   False
+   True
+
+
+Question: 55
+Which of the following is false about the Product Goal.(choose the best answer) : 
+   For the Product Goal to be fulfilled, the entire Product Backlog must be Done.
+   The Product Owner is also accountable for developing and explicitly communicating the Product Goal.
+   When reaching the Product Goal, the Scrum Team chooses to release or not the Increment.
+   The Scrum Team must fulfill (or abandon) one Product&nbsp;Goal before taking on the next.
+   The Product Goal is in the Product Backlog.
+   The Product Goal is the long-term objective of the Scrum Team.
+
+
+Question: 56
+When is an item in the Sprint Backlog considered complete?(choose the best answer) : 
+   When the Sprint is over
+   When the customer approves its completeness
+   The item has all the quality requirements defined by the Product Owner.
+   When it meets the Definition of Done.
+
+
+Question: 57
+Select which are not part of the pillars that uphold Scrum?(choose all that apply) : 
+   Teamwork
+   Adaptation
+   Transparency
+   Self-organization
+   Cross-functionality
+   Agility
+   Inspection
+
+
+Question: 58
+The Increment is:(choose the best answer) : 
+   The sum of all the Product Backlog items completed during the Sprint
+   All items in the Sprint Backlog that could be released regardless of whether the Product Owner decides to actually do it
+   The sum of all the Product Backlog items completed during the Sprint, excluding the value of the increments of all previous Sprints
+   Additive to all prior Increments and thoroughly verified, ensuring that all Increments work together.
+   All "Done" items in the Sprint Backlog
+
+
+Question: 59
+Who participates in Sprint Planning?(choose all that apply) : 
+   Invited people
+   The Developers
+   The Scrum Master
+   The Product Owner
+
+
+Question: 60
+How does the Scrum Master help the Product Owner?(choose the best three answers) : 
+   Helping find techniques for effective Product Backlog management
+   Facilitating stakeholder collaboration as requested or needed
+   Leading and coaching the organization in its Scrum adoption.
+   Helping the Scrum Team understand the need for clear and concise Product Backlog items
+   Helping establish the project plan
+   Helping find techniques for effective Sprint Goal definition
+
+
+Question: 61
+What is a possible result of the Sprint Review?(choose the best answer) : 
+   A revised Product Backlog that defines the probable Product Backlog items for the next Sprint
+   A common understanding of progress toward the Sprint Goal and how progress is trending toward completing the work in the Sprint Backlog
+   A list of improvements that the Scrum Team will implement in the next Sprint
+   A common understanding of what can be delivered in the Increment and how will the work needed to deliver the Increment be achieved
+
+
+Question: 62
+Ordinarily, items on the Sprint Backlog tend to be...(choose the best answer) : 
+   The same size as those on the Product Backlog
+   Smaller than those on the Product Backlog
+   Larger than those on the Product Backlog
+
+
+Question: 63
+Which of the following is NOT correct about the Developers?(choose the best answer) : 
+   b. Decide the number of items for the upcoming Sprint
+   a. Write the test cases
+   d. Explain the Product Backlog items
+   c. As a whole, are cross-functional
+
+
+Question: 64
+Which of the following are correct regarding the Product Goal?(choose the best four answers) : 
+   An Increment is a concrete stepping stone toward the Product Goal.
+   During the Sprint Review, progress toward the Product Goal is discussed.
+   The Product Goal must consist of a vision statement, the main features, a deadline, and target measures.
+   If there are multiple Scrum Teams working on the same product, they should share the same Product Goal.
+   Once a product reaches the Product Goal, it must be released.
+   In the case of existing multiple Product Goals, they must be organized into a Product Roadmap.
+   The Scrum Team must only pursue one Product Goal at a time.
+
+
+Question: 65
+Who has the authority to cancel the Sprint?(choose the best answer) : 
+   The Key Stakeholders
+   The Scrum Master
+   The Developers
+   The Product Owner and the Scrum Master
+   The Product Owner
+
+
+Question: 66
+How regularly should Scrum users examine Scrum artifacts and progress approaching a Sprint Goal?(choose the best answer) : 
+   After the Daily Scrum
+   At the Sprint Review
+   As frequently as possible
+   Frequently, but it should not get in the way of the work
+
+
+Question: 67
+True or False: The Sprint for all the Scrum Teams working on the same product must start and end on the same date. : 
+   False
+   True
+
+
+Question: 68
+Select the two essential features of a Scrum Team:(choose the best two answers) : 
+   It should have all the skills necessary to create value each Sprint
+   It should be flexible enough to complete all the work planned for the Sprint even if some team members are on vacation
+   It must only use tools, processes and techniques approved by the Organization
+   It should choose how best to accomplish their work, rather than being directed by others outside the team
+
+
+Question: 69
+What is the single source of requirements for any changes to be made to the product?(choose the best answer) : 
+   The Key Stakeholders
+   The Product Backlog
+   Team administrator
+   The CEO of the Organization
+
+
+Question: 70
+What does a Sprint Burn-down Chart show?(choose the best answer) : 
+   The evolution of the amount of uncertainty during a project
+   How much work remains till the end of the Sprint
+   Hierarchy of tasks that comprise a project
+   Dependencies, start times and stop times for project tasks
+
+
+Question: 71
+Refinement usually consumes how much of part of the capacity of the Scrum Team?(choose the best answer) : 
+   Not more than 10%
+   It is up to the Scrum Team.
+   Not more than 20%
+   Not more than 5%
+
+
+Question: 72
+What is Scrum?(choose the best answer) : 
+   A software development cookbook including the best agile practices.
+   Scrum is a lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems.
+   A complete process to deliver complex products.
+
+
+Question: 73
+The Sprint Backlog consists of what?(choose the best answer) : 
+   The&nbsp;Sprint Goal, the set of Product Backlog items selected for the Sprint, plus an actionable plan for delivering the product Increment.
+   The Product Backlog items selected for the Sprint.
+   The tasks for delivering the Product Backlog items selected for the Sprint, including their relationships and owners.
+   The plan for delivering the selected Product Backlog items.
+
+
+Question: 74
+Which of the following are characteristics of the Product Backlog? (choose all that apply) : 
+   A Product Backlog could be closed when it contains no items to include in the next Sprint.
+   It is continuously refined.
+   It is emergent.
+   As long as a product exists, its Product Backlog also exists.
+
+
+Question: 75
+Who is responsible for defining the Sprint Goal during Sprint Planning?(choose the best answer) : 
+   The Scrum Team
+   The Key Stakeholders
+   The Scrum Master
+   The Product Owner
+   The Development Team
+
+
+Question: 76
+You are the Scrum Master of a Scrum Team that does not have the tools and environment to completely finish each of the selected Product Backlog items. Which of the following are appropriate for you to do?(choose the best two answers) : 
+   Declare that the Scrum Team is not mature enough to adopt Scrum
+   Tell them that, in this case, it is acceptable to have the partially Done Increment accepted during Sprint Reviews
+   Coach the Scrum Team on defining a Definition of Done that is achievable given current circumstances
+   Cancel the Sprint
+   Facilitate the process of having the Scrum Team improve its skills, tools, and environment over time and adjust the Definition of Done as needed
+
+
+Question: 77
+True or False: According to the Scrum framework, the Scrum components and rules for the project are chosen depending on the project's specific characteristics.  : 
+   True
+   False
+
+
+Question: 78
+At some point, several of the Developers from a Scrum Team come to you, the Scrum Master, complaining that the work identified for the upcoming Sprint will require a full-time commitment from a specialist who is external to the teams. What should you consider in this situation?(choose the best two answers) : 
+   The need for the Developers to keep a sustainable pace
+   The need for the team to keep delivering value fast
+   The ability of the Scrum Teams to produce Increments
+   The benefits of having the Developers figure out a solution for themselves
+
+
+Question: 79
+What two things should happen with undone Product Backlog items at the end of the Sprint?(choose the best two answers) : 
+   The items should be demonstrated during the Sprint Review, the Sprintâ€™s velocity should consider the part of the items that were Done during the Sprint, and the remaining work should be considered as a new Product Backlog item
+   If the Product Owner is satisfied with the work, he can accept them and release them
+   They should be placed on the Product Backlog
+   They must not be included as part of the Increment
+
+
+Question: 80
+True or False: The Scrum Team can only pursue one Product Goal at a time. : 
+   False
+   True
+
+

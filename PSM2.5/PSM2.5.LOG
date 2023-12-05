@@ -1,0 +1,466 @@
+Question: 1
+Kevin is a senior Developer that has recently joined an existing Scrum team. The existing team members are unable to get along with Kevin and conclude that he is not the right fit. If necessary, who is responsible for removing the new team member, and why? (Choose the best answer) : 
+   The HR department, as they are responsible for the hiring process.
+   The Developers are responsible because it is an internal team issue. He may also request help from the Scrum Master.
+   The Scrum Master because he/she is responsible for helping the Developers to remove Impediments.
+   The Product Owner because he/she is responsible for managing the team.
+
+
+Question: 2
+You are the Scrum Master for four Scrum teams that are working on the same product. Several Developers have informed you that in the next two Sprints, their teams will require full-time assistance from an external technical specialist Nicole. What key concerns should the Scrum Master take into account? (Choose the best answer) : 
+   Having enough work for all team members.
+   Maintaining a consistent velocity.
+   The ability to produce integrated Increments and the benefit of teams solving the problem themselves.
+   Hiring additional resources to fill the void in skillset.
+
+
+Question: 3
+The Sprint has started and Steve, the Scrum Master, is working with his team. Developers come to him asking questions regarding the requirements of an item. What should the Developers do if they don't understand a functional requirement? (Choose the best answer) : 
+   Work with the Product Owner to determine what is possible and acceptable.
+   Move the item to a future Sprint.
+   Complete as much as possible and add the remaining work to a new Product Backlog item.
+   Request a specialist to be added to the team.
+
+
+Question: 4
+Scrum Values encourage Scrum teams to be cross-functional and to have all of the skills necessary to build a product. What are the benefits of keeping existing component teams (e.g. design, database, back-end, front-end) when starting Scrum? (Choose the best answer) : 
+   Because they have been working together for some time, there will be less initial disruption than a newly formed team. As they begin working, they will discover what works best and how to move towards cross-functional teams.
+   Component teams generally have all the skills needed to deliver shippable Increments that add business value.
+   Component teams would have all the skills needed to focus on their specific technical layer.
+   There is less communication overhead than working in feature teams.
+   Because their productivity is already predictable, they can deliver shippable Increments more quickly than a newly formed team.
+
+
+Question: 5
+The timebox of a Sprint has come to an end, but the team still needs to do refinement before they start the new one. When does the new Sprint begin? (Choose the best answer) : 
+   Immediately after the next Sprint Planning.
+   It depends on the Product Owner.
+   Every Monday.
+   Immediately after the end of the previous Sprint.
+
+
+Question: 6
+A Scrum Master is working with Developers in different geographical locations. The Developers meet in a variety of meeting rooms, and they have a lot of logistical work to do before the Daily Scrum (for example, setting up conference calls and booking the venue). In this situation, what should the Scrum Master do? (Choose the best answer) : 
+   Ask the development manager to solve it as it is an impediment
+   Allow the developers to self-manage and make their own decisions. The team will become more self-managing as a result of this.
+   Request that the Developers take turns setting up the meeting. They will be held accountable as a result of this.
+   The Scrum Master should set up a meeting and announce to them how it will be addressed
+
+
+Question: 7
+Two new Developers have started working for a Scrum team. They are not sure if they have all the skills required to complete the items. What skills and competencies should the Developers need to have? (Choose the best answer) : 
+   They should be able to turn the Product Backlog items they select into a potentially releasable product Increment of functionality.
+   Complete all development work&nbsp;so that the testers can take over in the next Sprint.
+   Complete the project within the estimated time as promised to the Product Owner.
+
+
+Question: 8
+A Product Owner is working with 3 teams on a product. Which of the following is true about the Product Owner's accountability? (Choose the best answer) : 
+   Is one person. Can be influenced by a committee. Is accountable for ordering the Product Backlog.
+   Can be shared among multiple people in a Scrum team. Is the same as a Project Manager. Is played by a committee or a team of people.
+   The Scrum Master can not be Product Owner as well.
+
+
+Question: 9
+While developers are working during the Sprint, only functional requirements are discussed; non-functional requirements are not discussed. What should the Developers do with non-functional requirements? (Choose the best answer) : 
+   Assign them to the technical leads of the team.
+   Ensure they are addressed in every Increment.
+   Add them to a separate non-functional requirements list.
+   They will be addressed in the Integration Sprints.
+
+
+Question: 10
+Antonella is a Scrum Master of a 13-member Scrum team (including her). Because of the team size, it is mandatory to divide the Scrum team. (Choose the best answer) : 
+   This is true as the maximum size of a Scrum team must be 10 or fewer.
+   This is false as it is not required from Scrum to divide the Scrum team if there are more than 10 members in the Scrum team.
+
+
+Question: 11
+Currently, your engineering department is organized in siloed teams that specialize by function (e.g. front-end, back-end, database and testing). What would you consider when moving away from component teams towards feature teams? (Choose the best answer) : 
+   You cannot begin Scrum without having feature teams. It is easier to measure and compare performance between feature teams. Feature teams should have an equal number of team members.
+   Members within feature teams require compatible personalities. Feature teams should have a mix of junior and senior members. Tasks are completed more quickly than component teams.
+   Moving from component teams to feature teams could reduce productivity in the initial stages. Feature teams have less communication complexity. Getting support from the business side makes the transition easier.
+
+
+Question: 12
+Scrum promotes self-management. Which of these statements would not support self-management? (Choose the best answer) : 
+   Removing the need for documentation.
+   Developers deciding what work to do in a Sprint.
+   Removing titles for Developers.
+   Being a lightweight framework.
+
+
+Question: 13
+What are some good ways to form Scrum teams that adhere to the Scrum Values? (Choose the best answer) : 
+   Direct managers personally re-assign current reports to new teams.
+   The operations manager determines the new team structures and assignments.
+   Bring together all of the developers or existing teams and ask them to propose how to organize and self-manage into teams in the new structure.
+   Project Managers will allocate individuals to specific teams.
+
+
+Question: 14
+Part of the teamâ€™s Definition of Done requires creating or updating technical documentation in order to maintain the product and/or features in the future. The teamâ€™s technical writer will be on vacation during the Sprint. What should you do? (Choose the best answer) : 
+   Complete all development work first while adding technical documentation to the Product Backlog to be done in a subsequent Sprint.
+   Wait until the technical writer returns before continuing with related items.
+   Encourage the technical writers from other teams to form a specialized team to organize and plan the work for multiple teams.
+   The Developers will write it as they are still responsible for creating the documentation to make the Increment done in conformance with their Definition of Done.
+
+
+Question: 15
+A Scrum team needs to implement something on AWS, but no Developer is familiar with AWS. The plan is to hire a new Developer that will fill that gap. Adding more resources in Scrum will proportionally increase the value delivered. : 
+   True
+   False
+
+
+Question: 16
+Several Sprints into a project, a client is complaining to the Product Owner about the poor performance of the product. As a Scrum Master, how can you help the Product Owner? (Choose the best answer) : 
+   Notify the team responsible for system performance.
+   Tell the Product Owner that the Developers are in charge of the product's performance.
+   Note the issue for the next Sprint Retrospective.
+   Coach the Product Owner on effective ways to communicate this concern to the Developers and encourage the Product Owner to add the performance issue to the Product Backlog.
+
+
+Question: 17
+Federico, a new Product Owner, is hired to work on an existing product that has been ongoing for five Sprints. He is unsure about&nbsp;a Product Owner's responsibilities.  Which of these Product Owner activities are defined in Scrum? (Choose the best answer) : 
+   Describing features as Use Cases.
+   Ensuring work is completed within scope and time.
+   Writing User Stories.
+   Interacting with stakeholders and ensuring that the most valuable functionality is always produced first.
+
+
+Question: 18
+How should a Scrum Master divide a group of 100 Developers into multiple Scrum teams? (Choose the best answer) : 
+   Ask the Developers to divide themselves into teams.
+   Have the resource manager assign the people to teams.
+   Create teams based on their functional layer.
+   The Scrum Master should do it depending on their skills so he can create cross-functional teams.
+
+
+Question: 19
+Kleopatra is a new Developer in a Scrum Team, who completed a task that met the Definition of Done during her first week in the company. When the Increment was released by the Product Owner, it caused a problem in the client's domain. What is true? (Choose all that apply) : 
+   The Developers are not doing enough testing to cover everything that they should.
+   As Kleopatra is a new Developer, Developers should wait until she gets some experience, and then her work could be part of the Increment
+   If all the Developers agree, then incomplete work can be released as part of the Increment.
+   The Developers don't have a good enough Definition of Done, they should review it.
+   An Increment is a concrete stepping stone toward the Product Goal.
+   The Definition of Done promotes transparency by ensuring that everyone is aware of the work that was completed as part of the Increment.
+
+
+Question: 20
+During Sprint Planning, the Developers were not able to confidently forecast a Sprint Backlog. However, the Scrum team was able to create a Sprint Goal for the upcoming Sprint. What action should the Scrum Master take? (Choose the best answer) : 
+   Postpone the Sprint in order for the Product Owner to refine the Product Backlog to the level needed.
+   Extend the Sprint Planning timebox until the Developers can forecast enough items to begin the Sprint.
+   Request assistance from the technical architect.
+   Forecast the most likely Product Backlog items to meet the goal, and discuss why this happened and what changes will make it less likely to happen again in the upcoming Sprint Retrospective.
+
+
+Question: 21
+What should a Scrum Master do if the Product Owner intends to focus the first Sprint solely on infrastructure and architecture in order to work on functionality in the following Sprint?(Choose the best answer) : 
+   Add at least one technical architect to the Scrum team to ensure the architecture can be completed in the first Sprint.
+   Help the Product Owner understand the importance of including business functionality in every Sprint, and explain to him/her that the best architecture and infrastructure emerges as the functionality is developed.
+   Support the Product Ownerâ€™s decision as he/she is accountable for maximizing the value of the work that the Developers do.
+   Explain that one Sprint might not be enough to complete the architecture, and that he should pre-allocate additional Sprints just in case.
+
+
+Question: 22
+Emanuel is a Product Owner who joined a new Scrum team.He's trying to figure out how good and familiar the team is, so he believes velocity is a key metric for him. : 
+   False
+   True
+
+
+Question: 23
+Ali works as a Scrum Master for an organization that has hired 30 Developers. He's working on ways to make team formation go more smoothly. What type of team structure is best for creating integrated increments? (Choose the best answer) : 
+   It doesn't have to be a specific one, it depends on the product that they are delivering. They might not have to be cross-functional to deliver.
+   Every Scrum team is cross-functional, which means the Developers have the right mix of skills required to deliver end to end value without external dependencies.
+   Each team specializes in one technical layer of the system (e.g. front-end, database, back-end etc.).
+
+
+Question: 24
+Peter is a new Product Owner on a newly formed Scrum team. Peter has projected a product completion date based on an estimated velocity of 21 completed points per Sprint. After the first 3 Sprints, the Developers have determined that their maximum velocity is 15 points and that they are unable to create shippable Increments at the end of each Sprint. What is the best way to proceed? (Choose the best answer) : 
+   Extend the Sprint in order to complete the Sprint Backlog items.
+   The Scrum Master would coach the team on improving their estimations and commitment to completing the Sprint Backlog.
+   Due to the failure of the Sprints to produce shippable Increments, opportunities to inspect and adapt have been lost. To increase the team's capacity, the Scrum Master should encourage the organization to add more team members.
+   Inform Peter that the projected completion date is not correct. The Developers would estimate the remaining work to produce a shippable Increment and suggest completing it (make it meet the Definition of Done). Based on empirical data, Peter can adjust the completion date and decide how to continue.
+
+
+Question: 25
+Two new Developers have started working for a Scrum team. They are unsure how much work needs to be done before an item can be considered complete. How much effort does a Product Backlog item that the Developers select for a Sprint require?  (Choose the best answer) : 
+   An equal amount of time on analysis, design, programming, testing and documentation.
+   As much as they can fit into the Sprint. Any remaining work will be moved to a subsequent Sprint.
+   As much as they have informed the Product Owner will be done for every Product Backlog item they select following the Definition of Done.
+   All development work and at least some testing.
+
+
+Question: 26
+What should the Developers do if someone from outside the team approaches them and asks them to add a very important&nbsp;item to an ongoing Sprint?  (Choose the best answer) : 
+   Replace an item in the current Sprint of equal size.
+   Add the item to the top of the next Sprint Backlog.
+   Inform the Product Owner so he/she can work with the person.
+   Add the item to the bottom of the Sprint Backlog.
+
+
+Question: 27
+How should multiple Scrum teams, each working from the same Product Backlog, choose which Product Backlog items to work on? (Choose the best answer) : 
+   The Product Owner creates separate Product Backlogs for each team.
+   The Product Owner assigns the work to each team.
+   The Scrum team with the highest productivity will select the items first.
+   The Product Owner will present the work and the Developers will select the items they will work on.
+   Each Scrum team would select an equal number of items.
+
+
+Question: 28
+During the Sprint, the Developers realize that they might not be able to finish all of the items in the Sprint Backlog. What should happen? (Choose the best answer) : 
+   Continue Sprinting until the work is complete and redefine a new Sprint timebox based on the results of the current Sprint.
+   The Sprint length remains the same, and the Developers continuously learn what is actually possible to do within the timebox.
+   Items on the Product Backlog are either 'done' or 'not done.' This improves empiricism while also increasing transparency and reducing complexity.
+
+
+Question: 29
+If the Developers determine that they will not be able to complete the entire forecast, who should be present to review and adjust the selected Sprint work? (Choose the best answer) : 
+   The stakeholders and Scrum Master.
+   The Product Owner and the Developers.
+   The Developers and Project Manager.
+   The Scrum Master, the Business Analyst and the Developers.
+
+
+Question: 30
+A new Developer has just joined a new team. The team was overjoyed to have a new member join them during Sprint Planning, and they selected far too many items for the Sprint. What should they do now that they've selected too much work after the Sprint began?(Choose the best answer) : 
+   Modify the Definition of Done to ensure all Product Backlog items can be done by the end of the Sprint.
+   Continue working and update the Product Owner at the Sprint Review.
+   Work with the Product Owner to remove some work or Product Backlog items as soon as possible.
+   Add additional team members to handle the extra work.
+
+
+Question: 1
+Kevin is a senior Developer that has recently joined an existing Scrum team. The existing team members are unable to get along with Kevin and conclude that he is not the right fit. If necessary, who is responsible for removing the new team member, and why? (Choose the best answer) : 
+   The HR department, as they are responsible for the hiring process.
+   The Developers are responsible because it is an internal team issue. He may also request help from the Scrum Master.
+   The Scrum Master because he/she is responsible for helping the Developers to remove Impediments.
+   The Product Owner because he/she is responsible for managing the team.
+
+
+Question: 2
+You are the Scrum Master for four Scrum teams that are working on the same product. Several Developers have informed you that in the next two Sprints, their teams will require full-time assistance from an external technical specialist Nicole. What key concerns should the Scrum Master take into account? (Choose the best answer) : 
+   Having enough work for all team members.
+   Maintaining a consistent velocity.
+   The ability to produce integrated Increments and the benefit of teams solving the problem themselves.
+   Hiring additional resources to fill the void in skillset.
+
+
+Question: 3
+The Sprint has started and Steve, the Scrum Master, is working with his team. Developers come to him asking questions regarding the requirements of an item. What should the Developers do if they don't understand a functional requirement? (Choose the best answer) : 
+   Work with the Product Owner to determine what is possible and acceptable.
+   Move the item to a future Sprint.
+   Complete as much as possible and add the remaining work to a new Product Backlog item.
+   Request a specialist to be added to the team.
+
+
+Question: 4
+Scrum Values encourage Scrum teams to be cross-functional and to have all of the skills necessary to build a product. What are the benefits of keeping existing component teams (e.g. design, database, back-end, front-end) when starting Scrum? (Choose the best answer) : 
+   Because they have been working together for some time, there will be less initial disruption than a newly formed team. As they begin working, they will discover what works best and how to move towards cross-functional teams.
+   Component teams generally have all the skills needed to deliver shippable Increments that add business value.
+   Component teams would have all the skills needed to focus on their specific technical layer.
+   There is less communication overhead than working in feature teams.
+   Because their productivity is already predictable, they can deliver shippable Increments more quickly than a newly formed team.
+
+
+Question: 5
+The timebox of a Sprint has come to an end, but the team still needs to do refinement before they start the new one. When does the new Sprint begin? (Choose the best answer) : 
+   Immediately after the next Sprint Planning.
+   It depends on the Product Owner.
+   Every Monday.
+   Immediately after the end of the previous Sprint.
+
+
+Question: 6
+A Scrum Master is working with Developers in different geographical locations. The Developers meet in a variety of meeting rooms, and they have a lot of logistical work to do before the Daily Scrum (for example, setting up conference calls and booking the venue). In this situation, what should the Scrum Master do? (Choose the best answer) : 
+   Ask the development manager to solve it as it is an impediment
+   Allow the developers to self-manage and make their own decisions. The team will become more self-managing as a result of this.
+   Request that the Developers take turns setting up the meeting. They will be held accountable as a result of this.
+   The Scrum Master should set up a meeting and announce to them how it will be addressed
+
+
+Question: 7
+Two new Developers have started working for a Scrum team. They are not sure if they have all the skills required to complete the items. What skills and competencies should the Developers need to have? (Choose the best answer) : 
+   They should be able to turn the Product Backlog items they select into a potentially releasable product Increment of functionality.
+   Complete all development work&nbsp;so that the testers can take over in the next Sprint.
+   Complete the project within the estimated time as promised to the Product Owner.
+
+
+Question: 8
+A Product Owner is working with 3 teams on a product. Which of the following is true about the Product Owner's accountability? (Choose the best answer) : 
+   Is one person. Can be influenced by a committee. Is accountable for ordering the Product Backlog.
+   Can be shared among multiple people in a Scrum team. Is the same as a Project Manager. Is played by a committee or a team of people.
+   The Scrum Master can not be Product Owner as well.
+
+
+Question: 9
+While developers are working during the Sprint, only functional requirements are discussed; non-functional requirements are not discussed. What should the Developers do with non-functional requirements? (Choose the best answer) : 
+   Assign them to the technical leads of the team.
+   Ensure they are addressed in every Increment.
+   Add them to a separate non-functional requirements list.
+   They will be addressed in the Integration Sprints.
+
+
+Question: 10
+Antonella is a Scrum Master of a 13-member Scrum team (including her). Because of the team size, it is mandatory to divide the Scrum team. (Choose the best answer) : 
+   This is true as the maximum size of a Scrum team must be 10 or fewer.
+   This is false as it is not required from Scrum to divide the Scrum team if there are more than 10 members in the Scrum team.
+
+
+Question: 11
+Currently, your engineering department is organized in siloed teams that specialize by function (e.g. front-end, back-end, database and testing). What would you consider when moving away from component teams towards feature teams? (Choose the best answer) : 
+   You cannot begin Scrum without having feature teams. It is easier to measure and compare performance between feature teams. Feature teams should have an equal number of team members.
+   Members within feature teams require compatible personalities. Feature teams should have a mix of junior and senior members. Tasks are completed more quickly than component teams.
+   Moving from component teams to feature teams could reduce productivity in the initial stages. Feature teams have less communication complexity. Getting support from the business side makes the transition easier.
+
+
+Question: 12
+Scrum promotes self-management. Which of these statements would not support self-management? (Choose the best answer) : 
+   Removing the need for documentation.
+   Developers deciding what work to do in a Sprint.
+   Removing titles for Developers.
+   Being a lightweight framework.
+
+
+Question: 13
+What are some good ways to form Scrum teams that adhere to the Scrum Values? (Choose the best answer) : 
+   Direct managers personally re-assign current reports to new teams.
+   The operations manager determines the new team structures and assignments.
+   Bring together all of the developers or existing teams and ask them to propose how to organize and self-manage into teams in the new structure.
+   Project Managers will allocate individuals to specific teams.
+
+
+Question: 14
+Part of the teamâ€™s Definition of Done requires creating or updating technical documentation in order to maintain the product and/or features in the future. The teamâ€™s technical writer will be on vacation during the Sprint. What should you do? (Choose the best answer) : 
+   Complete all development work first while adding technical documentation to the Product Backlog to be done in a subsequent Sprint.
+   Wait until the technical writer returns before continuing with related items.
+   Encourage the technical writers from other teams to form a specialized team to organize and plan the work for multiple teams.
+   The Developers will write it as they are still responsible for creating the documentation to make the Increment done in conformance with their Definition of Done.
+
+
+Question: 15
+A Scrum team needs to implement something on AWS, but no Developer is familiar with AWS. The plan is to hire a new Developer that will fill that gap. Adding more resources in Scrum will proportionally increase the value delivered. : 
+   True
+   False
+
+
+Question: 16
+Several Sprints into a project, a client is complaining to the Product Owner about the poor performance of the product. As a Scrum Master, how can you help the Product Owner? (Choose the best answer) : 
+   Notify the team responsible for system performance.
+   Tell the Product Owner that the Developers are in charge of the product's performance.
+   Note the issue for the next Sprint Retrospective.
+   Coach the Product Owner on effective ways to communicate this concern to the Developers and encourage the Product Owner to add the performance issue to the Product Backlog.
+
+
+Question: 17
+Federico, a new Product Owner, is hired to work on an existing product that has been ongoing for five Sprints. He is unsure about&nbsp;a Product Owner's responsibilities.  Which of these Product Owner activities are defined in Scrum? (Choose the best answer) : 
+   Describing features as Use Cases.
+   Ensuring work is completed within scope and time.
+   Writing User Stories.
+   Interacting with stakeholders and ensuring that the most valuable functionality is always produced first.
+
+
+Question: 18
+How should a Scrum Master divide a group of 100 Developers into multiple Scrum teams? (Choose the best answer) : 
+   Ask the Developers to divide themselves into teams.
+   Have the resource manager assign the people to teams.
+   Create teams based on their functional layer.
+   The Scrum Master should do it depending on their skills so he can create cross-functional teams.
+
+
+Question: 19
+Kleopatra is a new Developer in a Scrum Team, who completed a task that met the Definition of Done during her first week in the company. When the Increment was released by the Product Owner, it caused a problem in the client's domain. What is true? (Choose all that apply) : 
+   The Developers are not doing enough testing to cover everything that they should.
+   As Kleopatra is a new Developer, Developers should wait until she gets some experience, and then her work could be part of the Increment
+   If all the Developers agree, then incomplete work can be released as part of the Increment.
+   The Developers don't have a good enough Definition of Done, they should review it.
+   An Increment is a concrete stepping stone toward the Product Goal.
+   The Definition of Done promotes transparency by ensuring that everyone is aware of the work that was completed as part of the Increment.
+
+
+Question: 20
+During Sprint Planning, the Developers were not able to confidently forecast a Sprint Backlog. However, the Scrum team was able to create a Sprint Goal for the upcoming Sprint. What action should the Scrum Master take? (Choose the best answer) : 
+   Postpone the Sprint in order for the Product Owner to refine the Product Backlog to the level needed.
+   Extend the Sprint Planning timebox until the Developers can forecast enough items to begin the Sprint.
+   Request assistance from the technical architect.
+   Forecast the most likely Product Backlog items to meet the goal, and discuss why this happened and what changes will make it less likely to happen again in the upcoming Sprint Retrospective.
+
+
+Question: 21
+What should a Scrum Master do if the Product Owner intends to focus the first Sprint solely on infrastructure and architecture in order to work on functionality in the following Sprint?(Choose the best answer) : 
+   Add at least one technical architect to the Scrum team to ensure the architecture can be completed in the first Sprint.
+   Help the Product Owner understand the importance of including business functionality in every Sprint, and explain to him/her that the best architecture and infrastructure emerges as the functionality is developed.
+   Support the Product Ownerâ€™s decision as he/she is accountable for maximizing the value of the work that the Developers do.
+   Explain that one Sprint might not be enough to complete the architecture, and that he should pre-allocate additional Sprints just in case.
+
+
+Question: 22
+Emanuel is a Product Owner who joined a new Scrum team.He's trying to figure out how good and familiar the team is, so he believes velocity is a key metric for him. : 
+   False
+   True
+
+
+Question: 23
+Ali works as a Scrum Master for an organization that has hired 30 Developers. He's working on ways to make team formation go more smoothly. What type of team structure is best for creating integrated increments? (Choose the best answer) : 
+   It doesn't have to be a specific one, it depends on the product that they are delivering. They might not have to be cross-functional to deliver.
+   Every Scrum team is cross-functional, which means the Developers have the right mix of skills required to deliver end to end value without external dependencies.
+   Each team specializes in one technical layer of the system (e.g. front-end, database, back-end etc.).
+
+
+Question: 24
+Peter is a new Product Owner on a newly formed Scrum team. Peter has projected a product completion date based on an estimated velocity of 21 completed points per Sprint. After the first 3 Sprints, the Developers have determined that their maximum velocity is 15 points and that they are unable to create shippable Increments at the end of each Sprint. What is the best way to proceed? (Choose the best answer) : 
+   Extend the Sprint in order to complete the Sprint Backlog items.
+   The Scrum Master would coach the team on improving their estimations and commitment to completing the Sprint Backlog.
+   Due to the failure of the Sprints to produce shippable Increments, opportunities to inspect and adapt have been lost. To increase the team's capacity, the Scrum Master should encourage the organization to add more team members.
+   Inform Peter that the projected completion date is not correct. The Developers would estimate the remaining work to produce a shippable Increment and suggest completing it (make it meet the Definition of Done). Based on empirical data, Peter can adjust the completion date and decide how to continue.
+
+
+Question: 25
+Two new Developers have started working for a Scrum team. They are unsure how much work needs to be done before an item can be considered complete. How much effort does a Product Backlog item that the Developers select for a Sprint require?  (Choose the best answer) : 
+   An equal amount of time on analysis, design, programming, testing and documentation.
+   As much as they can fit into the Sprint. Any remaining work will be moved to a subsequent Sprint.
+   As much as they have informed the Product Owner will be done for every Product Backlog item they select following the Definition of Done.
+   All development work and at least some testing.
+
+
+Question: 26
+What should the Developers do if someone from outside the team approaches them and asks them to add a very important&nbsp;item to an ongoing Sprint?  (Choose the best answer) : 
+   Replace an item in the current Sprint of equal size.
+   Add the item to the top of the next Sprint Backlog.
+   Inform the Product Owner so he/she can work with the person.
+   Add the item to the bottom of the Sprint Backlog.
+
+
+Question: 27
+How should multiple Scrum teams, each working from the same Product Backlog, choose which Product Backlog items to work on? (Choose the best answer) : 
+   The Product Owner creates separate Product Backlogs for each team.
+   The Product Owner assigns the work to each team.
+   The Scrum team with the highest productivity will select the items first.
+   The Product Owner will present the work and the Developers will select the items they will work on.
+   Each Scrum team would select an equal number of items.
+
+
+Question: 28
+During the Sprint, the Developers realize that they might not be able to finish all of the items in the Sprint Backlog. What should happen? (Choose the best answer) : 
+   Continue Sprinting until the work is complete and redefine a new Sprint timebox based on the results of the current Sprint.
+   The Sprint length remains the same, and the Developers continuously learn what is actually possible to do within the timebox.
+   Items on the Product Backlog are either 'done' or 'not done.' This improves empiricism while also increasing transparency and reducing complexity.
+
+
+Question: 29
+If the Developers determine that they will not be able to complete the entire forecast, who should be present to review and adjust the selected Sprint work? (Choose the best answer) : 
+   The stakeholders and Scrum Master.
+   The Product Owner and the Developers.
+   The Developers and Project Manager.
+   The Scrum Master, the Business Analyst and the Developers.
+
+
+Question: 30
+A new Developer has just joined a new team. The team was overjoyed to have a new member join them during Sprint Planning, and they selected far too many items for the Sprint. What should they do now that they've selected too much work after the Sprint began?(Choose the best answer) : 
+   Modify the Definition of Done to ensure all Product Backlog items can be done by the end of the Sprint.
+   Continue working and update the Product Owner at the Sprint Review.
+   Work with the Product Owner to remove some work or Product Backlog items as soon as possible.
+   Add additional team members to handle the extra work.
+
+

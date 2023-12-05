@@ -1,0 +1,239 @@
+Question: 1
+On a project where multiple Scrum teams are working from the same Product Backlog, how should the work be distributed between teams? (Choose the best answer) : 
+   The Product Owner separates the Product Backlog items for each team.
+   The Developers pull in work from a shared Product Backlog in agreement with the Product Owner and the other teams.
+   The Scrum team with the highest capacity will pull items from the Product Backlog first.
+   Each Scrum team must have an equal amount of User Stories per Sprint.
+
+
+Question: 2
+You are the Scrum Master of a team. After a few Sprints, you notice that the Product Owner is not collaborating with the Developers effectively. What action would you take? (Choose the best answer) : 
+   Coach the Product Owner.
+   Act as the go-between.
+   Send the Product Owner to training.
+   Raise this with the management.
+   Nominate a proxy Product Owner.
+
+
+Question: 3
+Steven is employed as a Scrum Master by the engineering department. The Director of Engineering considers using Scrum for a new project but wonders about the value of having all of the Developers attend the Daily Scrum. He is concerned that employees are already required to attend numerous company meetings. What are two outcomes of the Daily Scrum that Steven should explain on why the Daily Scrum is important? (Choose the best two answers) : 
+   The Daily Scrum serves for the Developers to report to Steven, as a Scrum Master, all updates on the assigned tasks in the Sprint Backlog. He can then use the teamâ€™s updates to plan their work for the next day, making sure that every team member is assigned the right tasks.
+   During the Daily Scrum, the Developers needs to update the Scrum board with their current status and progress, at a task level. This is crucial to ensure that the Directory of Engineering knows the teamâ€™s actual progress and control the work being done.
+   The Developers will produce a daily status report indicating how much time was spent working on individual tasks since the last Daily Scrum. The reports will help in discussing how the Sprint went at the Sprint Review meeting. It will provide detailed insights into the accuracy of estimates versus actual time spent, which can be used to create better estimates at the next Sprint Planning.
+   During the Daily Scrum, the Developers will inform of problems that are hindering their progress, and for which they have no means to resolve. They will inform Steven as a Scrum Master, so he can cause the removal of the impediments and help the team be more productive.
+   Through the short, daily alignment of the Daily Scrum the Developers grow and improve a shared understanding of the most important work to be undertaken in the next 24 hours to achieve the best possible progress toward the Sprint Goal. This daily opportunity to inspect and adapt will enable the Developers to best tackle any unforeseen circumstances that might otherwise disrupt the teamâ€™s progress.
+
+
+Question: 4
+During the Sprint Review of a scaled development effort, Developers of each Scrum team should demonstrate their individual Increment in a separate branch of the code. : 
+   False
+   True
+
+
+Question: 5
+What action should a Scrum Master take if the Developers have decided that Retrospectives are no longer necessary? (Choose the best answer) : 
+   Comply with the teamâ€™s decision.
+   Extend the Sprint timebox in order to fit the Retrospectives.
+   Start facilitating more productive and useful Retrospectives, in order to teach them the importance.
+   Suggest reducing the frequency of the Retrospectives.
+
+
+Question: 6
+Five new Scrum teams are being formed by a company to work on a single product. Several future team members inquire about the Scrum Master's role in coordinating work among the various Scrum teams. What should the Scrum Master do next? (Choose the best answer) : 
+   At the end of Sprint Planning, collect all Sprint tasks and create a consolidated plan for the entire Sprint.
+   Visit the five Scrum teams daily to ensure alignment and that all Sprint Backlogs remain synchronized.
+   Teach the Product Owner to collaborate with the technical leads to order the Product Backlog in such a way that there is no technical or development overlap during a Sprint.
+   Advise the teams to minimize dependencies by working on separate development branches and integrating at the end of four Sprint cycles.
+   Teach them that it is their responsibility to form the teams such that each team will have the necessary skills, knowledge, and competencies to create an integrated Increment by the end of every Sprint.
+
+
+Question: 7
+If multiple Scrum teams are working on the same product, all Scrum teams must mutually define a Definition of Ready (DoR). The DoR is a checklist that the Product Owner must fulfill before a Product Backlog item can be presented at Sprint Planning. This protects the Developers from interruptions and disruptions during the Sprint. : 
+   True
+   False
+
+
+Question: 8
+In order to have their Daily Scrum, a Scrum team with remote Developers typically spend time setting up meeting rooms and conference calling equipment and tools before the Daily Scrum. What should the Scrum Master do in this case? (Choose the best answer) : 
+   Inform management and ask them to solve it.
+   Set up the meeting and inform the developers of the procedure.
+   Ask the Developers to alternate who is responsible for meeting setup.
+   Allow the Scrum team to self-manage and decide for itself what to do.
+
+
+Question: 9
+Your organization's&nbsp;director of engineering emphasizes the importance of meeting deadlines in order for the engineering department to be seen as a reliable source&nbsp;for the product management department. The director has calculated that the team's velocity needs to increase by 15% in order to meet the product's release date commitment he made to management. He requests that Steven, the team's Scrum Master, should&nbsp;increase the velocity of his team. Which of the two options would be the best for Steven? (Choose the best two answers) : 
+   He tells the director that this is not his responsibility in Scrum. He tells the director to work with the Product Owner to check whether the estimates on the Product Backlog are being respected during implementation.
+   He educates his director on how it is part of a teamâ€™s self-management to improve velocity. He invites the director to the next Sprint Retrospective to brainstorm on how they can improve.
+   He explains how a team uses a Sprint's velocity to forecast work for the next Sprint rather than to predict future productivity perfectly. He prompts the director to the Product Owner for all information on the development process.
+   He helps the director understand that it typically takes a few Sprints for a team to gradually increase the velocity up to the level expected. Meanwhile he presents this to the team as a challenge and a company goal, leaving it however up to them to figure out exactly how to achieve this.
+   He informs the director of any organizational impediments to the team's productivity that he is aware of. He suggests collaborating with him on how to remove these impediments.
+
+
+Question: 10
+Which approach would you recommend to ensure that the Product Backlog items discussed at Sprint Planning are well understood, actionable, and easier to forecast? (Choose the best answer) : 
+   Having the Developers use some time during each Sprint to help the Product Owner analyze, estimate, and design items at the top of the Product Backlog that is projected to be worked on in the upcoming Sprint.
+   During a Sprint, the Scrum team's business analysts create upcoming Product Backlog items and add them to the forecast for the next Sprint.
+   Before Sprint Planning, having a separate group of business analysts and functional testers analyze high-ordered Product Backlog items.
+   Having the Product Owner collaborate with stakeholders between the end of the previous Sprint and the start of the next to prepare the Product Backlog items so that the Developers are not interrupted.
+
+
+Question: 11
+Which of the following statements are true about the Scrum Master accountability? (Choose the best answer) : 
+   The Scrum Master helps those outside the Scrum team understand which interactions are helpful and teaches the Developers to keep the Scrum meetings within the timebox.
+   At the Sprint Review, the Scrum Master demonstrates the completed Increment and answers any questions from the stakeholders.
+   The Scrum Master assigns tasks to Developers and ensures they are completed within the committed timebox.
+   The Scrum Master is responsible for updating the Scrum board and ensuring team members avoid conflicts.
+
+
+Question: 12
+Who is responsible for determining when it is most appropriate to update the Sprint Backlog? (Choose the best answer) : 
+   The Scrum Master.
+   The Scrum team.
+   The Developers.
+   The Product Owner.
+
+
+Question: 13
+Your organization has formed a new Scrum team and has assigned you as the Scrum Master. In what ways would you help the team start? (Choose the best answer) : 
+   Ensure the Scrum team members have compatible personalities, have the tech leads clarify the expectations and responsibilities of each accountability, and propose a performance rewards system.
+   Have the Scrum team members introduce their background experience to each other, ask the Product Owner to discuss the product and answer potential questions, and ensure the team understands the importance of a Definition of â€œDone.â€
+
+
+Question: 14
+Steven is Scrum Master and leads three Scrum teams that are all working on the same product and using the same Product Backlog. Management wants to standardize how velocity is calculated across all three teams in order to identify which teams are high performing and which teams need more support. What would be the best two responses Steven could provide to management? (Choose the best two answers) : 
+   The amount of business functionality that a Scrum team creates in a Sprint is known as velocity. It's specific to that team and is used to inform Sprint Planning.
+   There is no direct relationship between velocity and value.
+   It's a good idea to standardize velocity across teams to see which ones are producing the most value.
+   Providing incentives based on velocity can increase the Scrum teamâ€™s motivation to produce more value.
+
+
+Question: 15
+During the Sprint Review, one of the stakeholders announces that due to recent market changes, there is a risk that funding might be reduced for the project. This triggers tensions to rising and arguments to break out between members. As a Scrum Master, what would be the best actions to take? (Choose the best two answers) : 
+   Be objective and request for a short break for people to calm down.
+   Encourage the stakeholders and Product Owner to focus on delivering the highest value items for the next Sprint
+   Inform everyone that the team needs to stay busy until the information is formally announced.
+   Avoid getting involved as it is the Product Ownerâ€™s responsibility to manage stakeholder expectations.
+   Defend the original budget and request the stakeholders to adhere to the original agreed funding for the product.
+
+
+Question: 16
+Ten Scrum teams have been formed to work on the same Product where many things need to be considered. When multiple Scrum teams are working on the same Product Backlog, they must have the same Sprint start dates. : 
+   True
+   False
+
+
+Question: 17
+During a Product Backlog refinement meeting, the Product Owner introduces a business objective that will be worked on for the next Sprints. To achieve the business goal, the Product Owner sees a set of critical features that must be supplied. Because the features will be using sensitive user data, they will be subjected to external security audits.  These non-functional security requirements were not applicable to previous Increments. What are two effective methods for developers to address these high-security concerns? (Choose the best two answers) : 
+   During the Sprint Retrospective, the Developers assess how to add these expectations to their Definition of Done so every future Increment will meet these security requirements. If needed, they can work with external specialists to better understand the requirements.
+   To avoid disrupting Developers during feature development, they should be planned in parallel Sprints. After security concerns have been resolved, they will be applied to previously completed work before new features can be developed.
+   They are added to the Product Backlog and addressed throughout the next Sprints, combined with creating the business functionality in those Sprints, no matter how small the business functionality.
+   A complete list of security-related Product Backlog items needs to be created before starting a new Sprint.
+   They should be handled by a separate security team in a parallel Sprint so that security issues can be resolved through application enhancements without affecting functional development.
+
+
+Question: 18
+As a Scrum Master, what would you strive for if five new Scrum teams were to work on one product? (Choose the best answer) : 
+   There should be five Product Backlogs and one Product Owner to manage them.
+   There should be five Product Backlogs and five Product Owners.
+   There should be five Product Owners, one for each Scrum team.
+   The product has one Product Backlog and one Product Owner.
+
+
+Question: 19
+Your organization requires all Increments to pass user acceptance testing (UAT) before it is allowed to be released to production. Is it a good idea to postpone UAT until the end of the project to prevent the Developers from being disrupted during the Sprints? (Choose the best answer) : 
+   Yes, because UAT is done in a hardening Sprint before the release Sprint.
+   Yes, because the Scrum team is a self-managing team and should not be disrupted during development.
+   It depends on the teamâ€™s Definition of Done.
+   No, because the state of the Product Increment wonâ€™t be transparent and the communications won't be good enough.
+
+
+Question: 20
+Select two ways in which Scrum uses timeboxing to promote self-management? (Choose the best two answers) : 
+   Timeboxes helps everybody concentrate on the same problem at the same time.
+   Timeboxes can help teams plan how many additional Sprints are needed for User Acceptance testing.
+   Timeboxes encourage the ones closest to the problem to make the best possible decisions within the time frame given the current situation.
+   Timeboxes ensure that the Developers commit to completing the items in the Sprint Backlog by the end of the Sprint.
+
+
+Question: 21
+Konstantinos is a Scrum Master for a 13-member&nbsp;team, and he is trying&nbsp;to make sure&nbsp;that everyone on the team understands the Sprint Goal's purpose. Which of the following statements about the Sprint Goal is true? (Choose the best two answers) : 
+   Sprint Goals are not achievable when the team has more than 10 members.
+   During Sprint Planning, the entire Scrum team works together to create a Sprint Goal based on a business&nbsp;objective&nbsp;that the Product Owner wants to achieve during that Sprint.
+   Sprint Goals allow developers to be more flexible and creative when it comes to implementing functionality during the Sprint.
+   Sprint Goals are defined when the completed work is reviewed at the end of a Sprint.
+   Sprint Goals can change as new insights emerge during the Sprint.
+
+
+Question: 22
+In what ways does the Scrum Master keep the Developers working at their highest level of productivity? (Choose the best answer) : 
+   By causing the removal of impediments to the Scrum teamâ€™s progress and helping the Scrum team focus on creating high-value Increments that meet the Definition of Done
+   By keeping the Scrum board and burn-down chart updated daily.
+   By helping the Developers with user acceptance tests and tracking defects.
+   By ensuring each member takes turns speaking at the Daily Scrum and ending the event on time.
+
+
+Question: 23
+What is the most appropriate action for the Scrum Master to take if the Product Owner is having difficulties managing the Product Backlog? (Choose the best answer) : 
+   Instead of the Product Owner, have the Developers order the work
+   Delay the Sprint in order for the Product Owner to have enough time to prioritize the Product Backlog.
+   Have the Product Owner sort the items by size, with the Developers starting with the smallest.
+   Offer the Product Owner help in understanding that the goal of ordering the Product Backlog is to maximize the flow of value.
+   Delegate the work to the Assistant Product Owner.
+
+
+Question: 24
+How should a Scrum Master coordinate the work when Developers from more than one Scrum team are working on one product? (Choose the best answer) : 
+   Teach them that it is their responsibility to work with the other teams to integrate and create a shippable increment at the end of each Sprint.
+   Identify and manage the dependencies among Scrum teams.
+   Merge the teams and work from a single Sprint Backlog.
+   Have the Product Owner work with the tech leads of each team to parse the Product Backlog and minimize overlap in User Stories.
+
+
+Question: 25
+A Scrum Master is keeping a list of open impediments since the Developers haven't been able to resolve them. The list is growing and the Scrum Master has been able to assist with only a small portion of the impediments. Which would be the LEAST helpful technique in this situation? (Choose the best answer) : 
+   Consulting with the Developers.
+   Notify management of the impediments and their consequences.
+   Prioritize the tasks on the list and complete them in that order.
+   Arrange a triage meeting with all project managers to help you resolve them.
+
+
+Question: 26
+Ann has recently started working with a Scrum team as a Product Owner. She doesn't know how to estimate the items in the Product Backlog. What guideline should the Scrum Master provide if she asks how estimations should be made in Scrum? (Choose the best answer) : 
+   Estimates must be in relative units.
+   Estimates must be made in Story Points.
+   Estimates are made by the Product Owner.
+   Estimates must follow the Fibonacci Sequence.
+   The Developers are responsible for estimates.
+
+
+Question: 27
+A Developer has notified the Scrum Master of a potential data security risk. What action should the Scrum Master take? (Choose the best answer) : 
+   Add a Product Backlog item to address the security issue.
+   Notify the test team.
+   Wait until the Sprint Retrospective to add security to the Definition of Done.
+   Ask the Developer to share the issue with the team as soon as possible.
+
+
+Question: 28
+The Developers have suggested moving the Daily Scrum to every other day instead of every day. What is the most appropriate action for the Scrum Master to take? (Choose the best answer) : 
+   Have the Developers vote on which days the Daily Scrum should occur.
+   Support the self-managing teamâ€™s decision.
+   Learn why the developers want this, coach the team on the importance of the Daily Scrum, and collaborate with them to improve the Daily Scrum's outcome.
+
+
+Question: 29
+What can the Scrum Master do to ensure that the Developers and Product Owners communicate effectively? (Choose the best answer) : 
+   Teach the Product Owner to talk in terms of technology and technical requirements.
+   Ensure all communication goes through the Scrum Master first.
+   Translate the Developers' technologies so that the Product Owner can make&nbsp;decisions.
+   Observe the communications between them and coach them if needed or if requested.
+
+
+Question: 30
+Developers discover that they don't have the tools and infrastructure needed to make each selected Product Backlog item "Done". What is the most appropriate action for the Scrum Master to take? (Choose the best answer) : 
+   Encourage the Product Owner to accept partially done Increments and complete the work in the Hardening Sprint.
+   Coach the Developers to improve their skills, tools and infrastructure over time and establish a Definition of Done that is actually possible to achieve given the current circumstances.
+   Stop the Sprint and have the Developers work on the infrastructure before continuing.
+
+
